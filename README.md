@@ -40,7 +40,7 @@ My name is Sharang Gupta and I'm a software developer. I'm from India, living in
 
 [1.2]: http://i.imgur.com/M6yBwxS.png "instagram icon without padding"
 [2.2]: http://i.imgur.com/J6LeoUb.png "github icon without padding"
-[3.2]: https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_128x128.png?_ga=2.195002212.833866184.1632077833-1408508061.1632077833 "LinkedIn icon without padding"
+[3.2]: linkedin.png "LinkedIn icon without padding"
 
 <!-- links to social media accounts -->
 
