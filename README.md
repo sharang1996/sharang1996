@@ -26,6 +26,9 @@ My name is Sharang Gupta and I'm a software developer. I'm from India, living in
 <a href="https://github.com/sharang1996/sharang1996">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharang1996&repo=Nexter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<a href="https://github.com/sharang1996/sharang1996">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharang1996&repo=parivahan_scraper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <!-- links to social media icons -->
 
