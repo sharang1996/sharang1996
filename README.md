@@ -2,12 +2,12 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/sharang1996/sharang1996/master/wave.gif" width="30px">
 
-My name is Sharang Gupta and I'm a software developer. I'm from India, living in Manchester, England and currently working at The Hut Group. You can find me on [![LinkedIn][3.2]][3].
+My name is Sharang Gupta and I'm a software developer. I'm from India, living in Manchester, England and currently working at The Hut Group. You can find me on LinkedIn [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=ff1694)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=visualstudiocode&logoColor=blue&color=blue)
+![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visualstudiocode&logoColor=blue&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
