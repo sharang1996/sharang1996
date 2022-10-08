@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/sharang1996/sharang1996/master/wave.gif" width="30px">
 
-My name is Sharang Gupta and I'm a software developer. I'm from India, living in Manchester, England and currently working at The Hut Group. You can find me on LinkedIn [![LinkedIn][3.2]][3].
+My name is Sharang Gupta and I'm a software developer. I'm from India, living in Bournemouth, England and currently working at JP Morgan. You can find me on LinkedIn [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 
