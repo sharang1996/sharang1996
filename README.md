@@ -14,9 +14,8 @@ My name is Sharang Gupta and I'm a software developer working for THG remotely f
 
 
 ## &#x1f4c8; GitHub Stats
-
 <a href="https://github.com/sharang1996/sharang1996">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharang1996&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&hide=Jupyter%20Notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharang1996&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&hide=Jupyter%20Notebook&layout=donut" />
 </a>
 <a href="https://github.com/sharang1996/sharang1996">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=sharang1996&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sharang's GitHub Stats" />
