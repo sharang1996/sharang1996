@@ -9,7 +9,7 @@ My name is Sharang Gupta and I'm a software developer. I'm from India, living in
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=ff1694)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visualstudiocode&logoColor=blue&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
