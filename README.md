@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/sharang1996/sharang1996/master/wave.gif" width="30px">
 
-My name is Sharang Gupta and I'm a software developer. I'm from India, living in Bournemouth, England and currently working at JP Morgan. You can find me on LinkedIn [![LinkedIn][3.2]][3].
+My name is Sharang Gupta and I'm a software developer working for THG remotely from Bournemouth, England. You can find me on LinkedIn [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 
@@ -18,7 +18,7 @@ My name is Sharang Gupta and I'm a software developer. I'm from India, living in
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharang1996&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&hide=Jupyter%20Notebook" />
 </a>
 <a href="https://github.com/sharang1996/sharang1996">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharang1996&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sharang's GitHub Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=sharang1996&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sharang's GitHub Stats" />
 </a>
 <a href="https://github.com/sharang1996/food-ordering-system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharang1996&repo=food-ordering-system&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
